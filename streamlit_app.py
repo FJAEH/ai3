@@ -71,7 +71,7 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
 
      labels[0]: {
        "texts": ["치킨치킨치킨치킨"],
-    #   "images": ["https://.../jjampong1.jpg", "https://.../jjampong2.jpg"],
+     "images": ["https://www.bhc.co.kr/upload/bhc/menu/%EB%BF%8C%EB%A7%81%ED%81%B4-%EB%B0%98&%EC%B9%98%EC%A6%88%EB%B3%BC_410x271.jpg"],
       "videos": ["https://youtu.be/Ci0r0lybQ6o?si=mFo8ZYOqNn3fr7vy"]
      },
 }
